@@ -1,3 +1,41 @@
 ### Twitterproject
 
-It is a clone of Twitter builded usig ReactJs, NodeJS, ExpressJS.
+It is a clone of Twitter builded using ReactJs, NodeJS, ExpressJS, MongoDB.
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Deloyed link
+
+[Twitterproject](https://ashree.herokuapp.com/login)
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### Screenshots
+
+![twitter1](https://user-images.githubusercontent.com/40181680/115668027-353a4380-a364-11eb-9840-722b640b5a20.PNG)
+![twitter2](https://user-images.githubusercontent.com/40181680/115668068-43885f80-a364-11eb-8774-d83f0a1f9263.PNG)
+
